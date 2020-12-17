@@ -1,6 +1,6 @@
 # Lesson 1
 
-This is the template for the simplest possible Dash app.
+This is the template for one of the simplest possible Dash app.
 
 ## Running the app
 
