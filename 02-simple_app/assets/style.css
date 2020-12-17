@@ -1,0 +1,65 @@
+body {
+  color: #212121;
+  font-size: 1em;
+  background-color: #c5b4b4; /*#ecf3f3;*/
+}
+
+
+
+a {
+	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #777777;
+	font-weight: bold;
+}
+
+
+
+.app-body-wrapper {
+	display: flex;
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
+	background-color: #f5e3e3;
+	border: 1px black solid;
+}
+
+
+.app-body {
+	width: 100%;
+	/*border: 1px black solid;*/
+}
+.app-navigation {
+	width: 150px;
+	text-align: right;
+	/*border: 1px black solid;*/
+}
+.app-vertical-separator {
+	margin-top: 0;
+	margin-bottom: 1%;
+	margin-left: 10px;
+	margin-right: 10px;
+	border: 1px #a5a3a3 solid;
+	border-radius: 1px;
+	width: 0%;
+}
+
+
+.app2-table-wrapper {
+	width: 800px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+	border: 1px black solid;
+}
+
+.custom-button {
+	
+}
+
+
